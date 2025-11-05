@@ -150,7 +150,7 @@ spec:
     kind: ClusterImageCatalog
     major: 17
     name: documentdb-bookworm
-  instances: 1
+  instances: 3
   managed:
     services:
       additional:

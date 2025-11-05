@@ -9,7 +9,7 @@ spec:
     kind: ClusterImageCatalog
     name: documentdb-bookworm
     major: 17
-  instances: 1
+  instances: 3
   # UID and GID are required like this by the documentDB image
   postgresUID: 999
   postgresGID: 999
